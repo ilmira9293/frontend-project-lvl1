@@ -1,0 +1,28 @@
+{
+  "name": "brain-games-proj",
+  "version": "1.0.0",
+  "description": "My first project on Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilmira9293/frontend-project-lvl1.git"
+  },
+  "keywords": [
+    "b8k9t8k9"
+  ],
+  "author": "ilmira9293",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilmira9293/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/ilmira9293/frontend-project-lvl1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
+  }
+}
