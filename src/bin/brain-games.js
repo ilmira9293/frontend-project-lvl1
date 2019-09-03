@@ -1,10 +1,7 @@
 #!/usr/bin/env node
 
-import { name } from '..';
+import name from '..';
 
 console.log('Welcome to the Brain Games!\n');
 
-const user = name();
-
-
-
+name();
