@@ -1,7 +1,9 @@
 #!/usr/bin/env node
-
 import name from '..';
 
-console.log('Welcome to the Brain Games!\n');
+export const start = () => {
+    console.log('Welcome to the Brain Games!');
+    console.log('Answer "yes" if the number is even, otherwise answer "no"\n');
+};
 
-name();
+export const getName = () => name();
